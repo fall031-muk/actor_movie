@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'actor_movie',
     'corsheaders',
+    'actors'
 ]
 
 MIDDLEWARE = [
